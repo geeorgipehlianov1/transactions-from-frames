@@ -7,12 +7,12 @@ const frameMetadata = getFrameMetadata({
     {
       action: 'tx',
       label: 'Click the Button',
-      target: `${NEXT_PUBLIC_URL}/api/buttonclicker`,
+      target: `${NEXT_PUBLIC_URL}/api/send-transaction`,
     },
     {
       action: 'link',
       label: 'Leaderboard',
-      target: `${NEXT_PUBLIC_URL}/buttonclicker`,
+      target: `${NEXT_PUBLIC_URL}`,
     },
   ],
   image: {

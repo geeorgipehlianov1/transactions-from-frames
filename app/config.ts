@@ -1,1 +1,2 @@
 export const NEXT_PUBLIC_URL = 'http://localhost:3000';
+export const NEXT_PUBLIC_TRENDS_MARKET_ADDRESS = '0x21b988DCcdeF9dd7BFFCD2333aD556B4ccA538EA';
